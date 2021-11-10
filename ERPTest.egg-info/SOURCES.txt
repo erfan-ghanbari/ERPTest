@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+ERPTest.egg-info/PKG-INFO
+ERPTest.egg-info/SOURCES.txt
+ERPTest.egg-info/dependency_links.txt
+ERPTest.egg-info/requires.txt
+ERPTest.egg-info/top_level.txt
+testresult/__init__.py
